@@ -1,0 +1,11 @@
+name: chess-39
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipywidgets
+  - jupyterlab
+  - python=3.9
+  - jupyter-server-proxy
+
+
